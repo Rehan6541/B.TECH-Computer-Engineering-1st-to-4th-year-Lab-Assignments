@@ -1,1 +1,1 @@
-# Owner-avatar-B.TECH-Computer-Engineering-1st-to-4th-year-Lab-Assignments
+B.TECH-Computer-Engineering-1st-to-4th-year-Lab-Assignments
